@@ -7,10 +7,6 @@
 - 🥅 2020 Goals: Learn python
 - ⚡ Fun fact: I love to draw and play csgo and dota2 ...
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nexntv Spotify Playing" width="350" />](https://open.spotify.com/user/j0nr2m7f48o672pfxz1c6x0ux)
-
 ### Connect with me:
 
 [<img align="left" alt="Nexntv | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
