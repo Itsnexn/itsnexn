@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Nexntv | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="itsnexn | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -42,8 +42,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="nexntv's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nexntv&show_icons=true&hide_border=true" />
+  <img align="left" alt="itsnexn's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=itsnexn&show_icons=true&hide_border=true" />
 
 </details>
 
-[instagram]: https://instagram.com/nexntv
+[instagram]: https://instagram.com/itsnexn
