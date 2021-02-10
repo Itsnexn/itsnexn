@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate with others
-- 🥅 2020 Goals: Learn python
+- 🥅 2021 Goals: Learn Python librarys
 - ⚡ Fun fact: I love to draw and play csgo and dota2 ...
 
 ### Connect with me:
