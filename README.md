@@ -1,11 +1,10 @@
 ### Hi there, I'm Sina"NEXN"jafar beglu 👋
 
-## I'm a Designer, Web developer, Security engineer!!!
-
+## I'm a Front end Dev, Hacker, Casual programmer
 -  I’m currently learning python
 -  I’m looking to collaborate with others
 -  2021 Goals: Learn Python librarys
--  FunFact: I love reading
+-  Im not friendly guy
 
 ### Connect with me:
 
