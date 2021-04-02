@@ -1,8 +1,11 @@
-### Hi there, I'm Sina"NEXN"jafar beglu 👋
+### Hi there, I'm Sina 👋
 
-## I'm a Software engineer, Hacker, FullStack Web Dev
--  I’m currently learning everything
--  Im not friendly guy
+## Whoami
+- Hacker (CTF Player)
+- Casual programmer
+- full stack web dev
+- Linux user :)
+
 
 ### Connect with me:
 
