@@ -31,7 +31,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-</details>
   <img align="left" alt="itsnexn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsnexn&show_icons=true&theme=radical" />
 <details>
 <summary>:zap: most used Language Stats</summary>
