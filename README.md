@@ -27,6 +27,8 @@
 
 <img align="left" alt="itsnexn's most used Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
+<br />
+&nbsp;
 &nbsp;
 
 <details>
