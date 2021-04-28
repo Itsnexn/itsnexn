@@ -22,12 +22,13 @@
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <br />
+<br />
+&nbsp;
+
 <img align="left" alt="itsnexn's most used Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
-<br />
-<br />
+&nbsp;
 
----
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="itsnexn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsnexn&show_icons=true&theme=radical" />
