@@ -5,6 +5,7 @@
 - Casual programmer
 - full stack web dev
 - Linux user :)
+- Python3 Boy
 
 
 ### Connect with me:
