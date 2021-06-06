@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-- [https://twitter.com/itsnexn](Twitter)
-- [mailto:itsnexn@gmail.com](Email)
+- [Twitter](https://twitter.com/itsnexn)
+- [Email](mailto:itsnexn@gmail.com)
 
 <br />
 
