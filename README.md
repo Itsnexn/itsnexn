@@ -1,12 +1,13 @@
-### Hi there, I'm Sina 👋
+## Hi there, I'm Sina 
 
-## Whoami
+### Whoami
 - Hacker (CTF Player)
 - Casual programmer
 - full stack web dev
 - Linux user :)
 - Python3 Boy
 
+### [WebSite](https://itsnexn.ml)
 
 ### Connect with me:
 
