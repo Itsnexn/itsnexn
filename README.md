@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="itsnexn | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="itsnexn | Twitter" width="25px" src="https://theshillongtimes.com/wp-content/uploads/2020/10/twitter-logo.png" />][Twitter]
+- [https://twitter.com/itsnexn](Twitter)
+- [mailto:itsnexn@gmail.com](Email)
 
 <br />
 
@@ -32,7 +32,3 @@
 <br />
 &nbsp;
 &nbsp;
-
-
-[instagram]: https://instagram.com/itsnexn
-[Twitter]: https://twitter.com/itsnexn
