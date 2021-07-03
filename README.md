@@ -28,7 +28,7 @@
 <br />
 &nbsp;
 
-<img align="left" alt="itsnexn's most used Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img align="left" alt="itsnexn's most used Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnexn&layout=compact&theme=dracula" />
 
 <br />
 &nbsp;
